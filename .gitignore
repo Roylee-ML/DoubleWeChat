@@ -1,0 +1,3 @@
+WeChat/TargetApp/*
+!WeChat/TargetApp/put ipa or app here
+*.ipa
